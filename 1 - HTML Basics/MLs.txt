@@ -1,0 +1,13 @@
+HyperText Markup Language
+
+
+Standard Generalized Markup Language (SGML)
+Extensible Markup Language (XML)
+Hypertext Markup Language (HTML)
+Extensible Hypertext Markup language (XHTML)
+
+<img src="" width="" />
+<p>Some text</p>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
